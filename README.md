@@ -2,7 +2,7 @@
 The robot navigates a 4x4 grid featuring green square markers that denote various buildings potentially requiring delivery of fire suppression. These building markers are connected by sets of red and blue lines, indicating the lateral and longitudinal streets that the robot must traverse to reach its destinations. 
 
 # Problem description
-• The map representing the city is a 122cm x 122cm elevated platform.\n
+• The map representing the city is a 122cm x 122cm elevated platform.__
 • The distance separating building markers measures 30cm.
 • Streets are delineated by 1.9cm thick lines, with longitudinal streets marked in red and lateral streets marked in blue.
 • Building markers are identified by 6.4 cm x 6.4 cm green squares situated at street intersections.
